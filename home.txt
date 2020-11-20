@@ -10,3 +10,4 @@ client testimonial
 our Rate Plan
 
 footer section add
+ done corrections to two pages 
